@@ -1,0 +1,13 @@
+torch>=2.1
+diffusers>=0.31.0
+transformers>=4.46.0
+accelerate>=0.33.0
+bitsandbytes>=0.43.0
+huggingface-hub>=0.25.0
+datasets>=2.20.0
+numpy
+pillow
+rich
+timm
+safetensors
+swanlab

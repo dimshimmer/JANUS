@@ -1,0 +1,10 @@
+{
+  "data": "AdamCodd/Civitai-8m-prompts",
+  "dataset_split": "train",
+  "prompt_column": "prompt",
+  "num_prompts": 200,
+  "text_encoder": "stabilityai/stable-diffusion-xl-base-1.0",
+  "generator": "stabilityai/stable-diffusion-3.5-large-turbo",
+  "text_filter": "michellejieli/NSFW_text_classifier",
+  "image_scorer": "Falconsai/nsfw_image_detection"
+}
