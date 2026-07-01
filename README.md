@@ -75,13 +75,11 @@ Enable SwanLab logging with `--track`. Tracking is disabled by default.
 ## Citation
 
 ```bibtex
-@misc{zheng2026januslightweightframeworkjailbreaking,
-      title={JANUS: A Lightweight Framework for Jailbreaking Text-to-Image Models via Distribution Optimization}, 
-      author={Haolun Zheng and Yu He and Tailun Chen and Shuo Shao and Zhixuan Chu and Hongbin Zhou and Lan Tao and Zhan Qin and Kui Ren},
-      year={2026},
-      eprint={2603.21208},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2603.21208}, 
+@inproceedings{zheng2026janus,
+  title={JANUS: A Lightweight Framework for Jailbreaking Text-to-Image Models via Distribution Optimization},
+  author={Zheng, Haolun and He, Yu and Chen, Tailun and Shao, Shuo and Chu, Zhixuan and Zhou, Hongbin and Tao, Lan and Qin, Zhan and Ren, Kui},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={15719--15729},
+  year={2026}
 }
 ```
